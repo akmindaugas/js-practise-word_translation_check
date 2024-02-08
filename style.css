@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    gap: 1rem;
+    max-width: 250px
+}
+#reset{
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+#button{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
